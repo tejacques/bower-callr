@@ -7,7 +7,7 @@
   ],
   "description": "A SignalR utility library",
   "main": [
-      "./callr.js",
+      "./callr.js"
   ],
   "dependencies": {
       "signalr" : ">= 2.0.0"
