@@ -1,0 +1,19 @@
+{
+  "name": "callr",
+  "version": "1.0.4",
+  "homepage": "https://github.com/tejacques/callr",
+  "authors": [
+    "Tom Jacques <tejacques@gmail.com>"
+  ],
+  "description": "A SignalR utility library",
+  "main": [
+      "callr.js",
+  ],
+  "dependencies": {
+      "signalr" : ">= 2.0.0"
+  },
+  "keywords": [
+    "signalr"
+  ],
+  "license": "MIT"
+}
