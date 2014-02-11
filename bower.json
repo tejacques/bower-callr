@@ -10,7 +10,7 @@
       "./callr.js"
   ],
   "dependencies": {
-      "signalr" : "git@github.com:tejacques/bower-signalr.git"
+      "signalr" : "git@github.com:tejacques/bower-signalr.git#master"
   },
   "keywords": [
     "signalr"
