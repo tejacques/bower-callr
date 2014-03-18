@@ -1,6 +1,6 @@
 {
   "name": "callr",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "homepage": "https://github.com/tejacques/callr",
   "authors": [
     "Tom Jacques <tejacques@gmail.com>"
@@ -10,7 +10,7 @@
       "./callr.js"
   ],
   "dependencies": {
-      "signalr" : "git@github.com:tejacques/bower-signalr.git#master"
+      "signalr" : ">=2.0.2"
   },
   "keywords": [
     "signalr"
