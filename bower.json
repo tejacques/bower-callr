@@ -10,7 +10,7 @@
       "./callr.js"
   ],
   "dependencies": {
-      "signalr" : ">=2.0.2"
+      "signalr" : ">=2.0.3"
   },
   "keywords": [
     "signalr"
